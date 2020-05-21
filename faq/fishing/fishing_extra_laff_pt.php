@@ -221,7 +221,7 @@ For every ten unique species of fish you catch, you will earn a fishing trophy f
       answer <a href="../problem.php">contact us</a>.</font></p>
 	  <table width="100%" border="0">
         <tr>
-          <td height="13"><strong><font size="1" face="Arial, Helvetica, sans-serif"><a href="faq.php">&lt;Select
+          <td height="13"><strong><font size="1" face="Arial, Helvetica, sans-serif"><a href="/faq/faq.php">&lt;Select
                   New Category</a></font></strong></td>
           <td><div align="right"><strong><font size="1" face="Arial, Helvetica, sans-serif"><a href="faq_fishing.php">&lt;Back
           to Fishing</a></font></strong></div></td>
@@ -284,7 +284,7 @@ For every ten unique species of fish you catch, you will earn a fishing trophy f
 <script language="JavaScript" type="text/javascript">
 var legalFooterColor = "#0000FF";
 var legalFtrLine1 = "<div style='font-weight: bold;'>Disney's Toontown Online</div>";
-var legalFtrOpts = ["Member/Guest Services","./unavailableOnTestServer.php","Help","./faq.php","Contact Us","http://apps.disneyblast.go.com/cgi-bin/mail/generic_mail.cgi?template=toontown/toonhelp.tpl"]
+var legalFtrOpts = ["Member/Guest Services","./unavailableOnTestServer.php","Help",".//faq/faq.php","Contact Us","http://apps.disneyblast.go.com/cgi-bin/mail/generic_mail.cgi?template=toontown/toonhelp.tpl"]
 var legalFtrCpyRgt = '<div style="font: verdana, arial, helvetica, sans-serif 1pt; font-color:#000000;"><a href="./memberAgreement.php">Member Agreements</a>&nbsp;|&nbsp;<a href="http://disney.go.com/guestservices/netiquette.html">House Rules</a><br>&copy; Disney. All rights reserved.';
 </script>
 

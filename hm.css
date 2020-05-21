@@ -1,0 +1,9 @@
+#homepage #header{min-height:110px;z-index:100;}
+#mainContent{position:relative}
+.boxTop960{height:10px;}
+.boxMid960{text-align:center}
+#hmId{width:938px;height:509px;position:relative;background:transparent url(../img/welcome.jpg) no-repeat scroll 0 0;margin:0 auto}
+#hmId .welcome{position:absolute;top:30px;left:11px;width:244px;height:224px;text-indent:-9999em}
+#hmId .reqAccess{position:absolute;top:54px;left:260px;width:242px;height:219px;text-indent:-9999em}
+#hmId .repBug{position:absolute;top:239px;left:505px;width:152px;height:179px;text-indent:-9999em}
+#hmId .relNotes{position:absolute;top:40px;left:676px;width:231px;height:234px;text-indent:-9999em}

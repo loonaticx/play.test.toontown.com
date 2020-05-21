@@ -1,0 +1,81 @@
+.mainContainer { background: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://cdn.toontown.disney.go.com/toontown-test/en/global/img/bg_mainContainer.png',sizingMethod='scale');}
+#header { height: 150px;}
+#headerLogo { background: none;filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://cdn.toontown.disney.go.com/toontown-test/en/global/img/txt_headerLogo.png',sizingMethod='crop'); }
+a#headerPlayNow{display:block;cursor:pointer;width:256px;height:130px;position:absolute;right:-8px;top:4px;z-index:2;text-indent:-9999px;background:url(../img/btns/play-now.gif) no-repeat scroll 0 0;}
+a#headerPlayNow:hover{background:url(../img/btns/play-now.gif) no-repeat scroll 0 0;width:256px;height:139px;background-position: -256px -0px;}
+
+#ttGeneric form input, #ttGeneric form textarea { position: relative;}
+
+.boxMid705x241 { background: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://cdn.toontown.disney.go.com/toontown-test/en/global/img/bg_boxMid705x241.png',sizingMethod='scale');}
+.boxMid241x705 { background: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://cdn.toontown.disney.go.com/toontown-test/en/global/img/bg_boxMid241x705.png',sizingMethod='scale');}
+
+h1.error { background: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://cdn.toontown.disney.go.com/toontown-test/en/error/img/uh-oh.png', sizingMethod='crop');}
+
+#homepage #header { height: 98px;}
+#footer { padding-top: 75px; }
+
+#submitBug #leftCol p, #submitBug #rightCol p { width: 305px;}
+#submitBug .macLauncher form, #submitBug .pcLauncher form { height: 475px!important;}
+#submitBug #rightCol label { position: relative; }
+
+/*Begin TT Change*/
+/* EULA */
+a#eulaIAgree { background: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://cdn.toontown.disney.go.com/toontown-test/en/global/img/btns/btn-large-i-agree-off.png',sizingMethod='scale'); } 
+a#eulaIAgree:hover { background: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://cdn.toontown.disney.go.com/toontown-test/en/global/img/btns/btn-large-i-agree-on.png',sizingMethod='scale'); }
+.ttLicense { position:relative;}
+
+
+/* Report A Bug */
+#submitBug h1.submitBug { background: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://cdn.toontown.disney.go.com/toontown-test/en/global/img/templates/txt_bugTitle.png',sizingMethod='crop');}
+
+a.browseButtonIE  { z-index: 1000; background-image: url(../../bugsubmit/img/btn-browse-off.gif);}
+a.browseButtonIE:hover  { background-image: url(../../bugsubmit/img/btn-browse-on.gif);}
+
+input#submitBtn { background: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://cdn.toontown.disney.go.com/toontown-test/en/bugsubmit/img/btn-submit-off.png',sizingMethod='crop');}
+input#submitBtn.on { background: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://cdn.toontown.disney.go.com/toontown-test/en/bugsubmit/img/btn-submit-on.png',sizingMethod='crop');}
+#submitBug label { }
+#submitBug .character#reportabug { background: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://cdn.toontown.disney.go.com/toontown-test/en/global/img/templates/img_submitBugChar.png',sizingMethod='crop');}
+
+textarea.large, input.text { background-attachment: fixed; } 
+#commentForm textarea.large { height: 100px; padding-bottom: 25px; }
+
+#searchForm *,
+.searchResult { position: relative; }
+#search .charSearch#monkey { top:-61px;right:-16px; }
+#search .charSearch#bear { top:460px;right:45px; }
+#search .charSearch#dog { top:761px;right:20px; }
+#search #searchForm  #ttSearchBtn { filter: none; background:url("http://cdn.toontown.disney.go.com/toontown-test/en/global/img/btn_findIt-big.png") no-repeat scroll 0 0 transparent; }
+#search #searchForm  #ttSearchBtn.on { filter: none; background-position:0 -49px; }
+
+/* GIB */
+body#downloader #downloadbar #progress-container .progress-frame { 	background: none;	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://cdn.toontown.disney.go.com/toontown-test/en/game/img/progressbar-frame.png',sizingMethod='crop');}
+
+
+/* Request Access */
+h1.accessReqTitle{background: none;filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://cdn.toontown.disney.go.com/toontown-test/en/access/img/titles/request.png',sizingMethod='crop');}
+#requestAccess #mainContent a {position: relative}
+#requestAccess form input, #login form textarea { position: relative;}
+
+/* Access Granted */
+h1.accessGrantedTitle{background: none;filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://cdn.toontown.disney.go.com/toontown-test/en/access/img/titles/granted.png',sizingMethod='crop');}
+
+/* Access Denied*/
+h1.accessDeniedTitle{background: none;filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://cdn.toontown.disney.go.com/toontown-test/en/access/img/titles/denied.png',sizingMethod='crop');}
+
+/* Login */
+h1.loginTitle{background: none;filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://cdn.toontown.disney.go.com/toontown-test/en/access/img/titles/login.png',sizingMethod='crop');}
+#login #mainContent a {position: relative}
+#login form input, #login form textarea { position: relative;}
+
+
+/* Access Removed */
+h1.accessRemovedTitle{background: none;filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://cdn.toontown.disney.go.com/toontown-test/en/access/img/titles/removed.png',sizingMethod='crop');}
+
+#error #errImg{background: none;filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://cdn.toontown.disney.go.com/toontown-test/en/error/img/fishing.png',sizingMethod='crop');}
+
+/* Update Account */
+h1.updateAcctTitle{background: none;filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://cdn.toontown.disney.go.com/toontown-test/en/access/img/titles/update-account.png',sizingMethod='crop');}
+
+/* Release Notes */
+h1.relNotes{background: none;filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://cdn.toontown.disney.go.com/toontown-test/en/release-notes/img/title.png');}
+

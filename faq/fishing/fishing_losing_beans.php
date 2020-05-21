@@ -220,7 +220,7 @@ You need to bait your rod each time you cast your line to attract the fish. If y
       answer <a href="../problem.php">contact us</a>.</font></p>
 	  <table width="100%" border="0">
         <tr>
-          <td height="13"><strong><font size="1" face="Arial, Helvetica, sans-serif"><a href="faq.php">&lt;Select
+          <td height="13"><strong><font size="1" face="Arial, Helvetica, sans-serif"><a href="/faq/faq.php">&lt;Select
                   New Category</a></font></strong></td>
           <td><div align="right"><strong><font size="1" face="Arial, Helvetica, sans-serif"><a href="faq_fishing.php">&lt;Back
           to Fishing</a></font></strong></div></td>

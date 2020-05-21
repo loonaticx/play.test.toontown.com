@@ -225,7 +225,7 @@ function popNews(url) {
         answer <a href="../problem.php">contact us</a>.</font></p>
    <font size="2" face="Arial, Helvetica, sans-serif"><table width="100%" border="0">
         <tr>
-          <td><strong><font size="1" face="Arial, Helvetica, sans-serif"><a href="faq.php">Select New Category</a></font></strong></td>
+          <td><strong><font size="1" face="Arial, Helvetica, sans-serif"><a href="/faq/faq.php">Select New Category</a></font></strong></td>
           <td><div align="right"><strong><font size="1" face="Arial, Helvetica, sans-serif"></font></strong></div></td>
         </tr>
       </table></font>

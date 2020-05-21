@@ -1,0 +1,520 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app23.us.archive.org';v.server_ms=579;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/_static/js/playback.bundle.js?v=lgdr_j0b" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=nWgLpXRB" charset="utf-8"></script>
+<script type="text/javascript">
+if (window._WBWombatInit) {
+  wbinfo = {}
+  wbinfo.url = "http://test.toontown.go.com:80/report-bug";
+  wbinfo.timestamp = "20120621012418";
+  wbinfo.request_ts = "20120621012418";
+  wbinfo.prefix = "https://web.archive.org/web/";
+  wbinfo.mod = "if_";
+  wbinfo.is_framed = false;
+  wbinfo.is_live = false;
+  wbinfo.coll = "web";
+  wbinfo.proxy_magic = "";
+  wbinfo.static_prefix = "/_static/";
+  wbinfo.enable_auto_fetch = true;
+  wbinfo.auto_fetch_worker_prefix = "https://web.archive.org/web/";
+  wbinfo.wombat_ts = "20120621012418";
+  wbinfo.wombat_sec = "1340241858";
+  wbinfo.wombat_scheme = "https";
+  wbinfo.wombat_host = "test.toontown.go.com:80";
+  wbinfo.ignore_prefixes = ["/__wb/",
+                            "/_static/",
+                            "/web/",
+                            "http://analytics.archive.org/",
+                            "https://analytics.archive.org/",
+                            "//analytics.archive.org/",
+                            "http://archive.org/",
+                            "https://archive.org/",
+                            "//archive.org/",
+                            "http://faq.web.archive.org/",
+                            "http://web.archive.org/",
+                            "https://web.archive.org/"
+                            ];
+  wbinfo.wombat_opts = {};
+  window._WBWombatInit(wbinfo);
+}
+__wm.init("https://web.archive.org/web");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=HyR5oymJ" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="content-language" content="EN-US"/>
+
+    
+    <title>Report a Bug | Disney Toontown Online Test Site</title>
+    
+    <meta name="description" content="This is the Toontown Online Test Server. If you are here by mistake, please go to Toontown.com."/>
+    
+    <meta name="keywords" content="disney, toontown test "/>
+    
+
+    <meta name="facet1" content="Play|Download|Shop"/>
+    <meta name="Play" content="Games|Activities"/>
+    <meta name="Download" content="Digital Fun"/>
+    <meta name="Shop" content="Disney Products"/>
+    <meta name="agerange" content="6-9|10-12|0-5"/>
+    <meta name="author" content="Toontown"/>
+    <meta http-equiv="PICS-Label" content="(PICS-1.0 &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true r (n 0 s 0 v 0 l 0))"/>
+    <meta name="thumbnail" content="http://cdn.toontown.disney.go.com/toontown-test/en/global/img/thumbnail.gif"/>
+
+    
+
+    <link rel="icon" href="https://web.archive.org/web/20120621012418im_/http://cdn.toontown.disney.go.com/toontown-test/favicon.ico" type="image/x-icon"/>
+    <link rel="shortcut icon" href="https://web.archive.org/web/20120621012418im_/http://cdn.toontown.disney.go.com/toontown-test/favicon.ico" type="image/x-icon"/>
+
+    
+    <script type="text/javascript">
+    //<![CDATA[
+
+    var TTOWN = function(){
+      var CDN = "https://web.archive.org/web/20120621012418/http://cdn.toontown.disney.go.com/toontown-test/";
+      var URL = "https://web.archive.org/web/20120621012418/http://test.toontown.go.com/";
+      var URL_SSL = "https://web.archive.org/web/20120621012418/https://test.toontown.go.com/";
+      var ENV = "PROD";
+      var contextPath = "";
+      var backToTT = "https://web.archive.org/web/20120621012418/http://toontown.go.com/";
+      var backToTTSSL = "https://web.archive.org/web/20120621012418/https://toontown.go.com/";
+
+      this.getCDN = function(){
+        return CDN;
+      }
+      this.getURL = function(){
+        return URL;
+      }
+      this.getURL_SSL = function(){
+        return URL_SSL;
+      }
+      this.getENV = function(){
+        return ENV;
+      }
+      this.getContextPath = function(){
+        return contextPath;
+      }
+      this.getBackToTT = function(){
+        return backToTT;
+      }
+      this.getBackToTTSSL = function(){
+        return backToTTSSL;
+      }
+
+    };
+    var ttown = new TTOWN();
+    
+    //]]>
+    </script>
+
+    <link rel="stylesheet" href="https://web.archive.org/web/20120621012418cs_/http://cdn.toontown.disney.go.com/toontown-test/en/global/css/tt.min.1.14.css" type="text/css" media="screen" charset="utf-8"/>
+
+    
+    <link rel="stylesheet" href="https://web.archive.org/web/20120621012418cs_/http://cdn.toontown.disney.go.com/toontown-test/en/report-bug/css/rb.min.1.6.css" type="text/css" media="screen" charset="utf-8"/>
+    
+
+		<!--[if lte IE 6]>
+    <style type="text/css">img.transparent-png{visibility: hidden;}</style>
+    <script type="text/javascript" src="http://cdn.toontown.disney.go.com/toontown-test/en/global/js/pngfix.js"></script>
+    <script type="text/javascript">
+      //<![CDATA[
+      window.onload = PNGfix.init;
+      //]]>
+    </script>
+    <noscript><style type="text/css">img.transparent-png{visibility: visible !important;}</style></noscript>
+    
+    <link rel="stylesheet" href="http://cdn.toontown.disney.go.com/toontown-test/en/global/css/ie6.css" />
+    
+		<![endif]-->
+
+    
+    <script type="text/javascript" src="https://web.archive.org/web/20120621012418js_/http://cdn.toontown.disney.go.com/toontown-test/en/global/js/jquery.1.6.2.min.js"></script>
+    
+
+    <script type="text/javascript" src="https://web.archive.org/web/20120621012418js_/http://cdn.toontown.disney.go.com/toontown-test/en/global/js/tt.min.js"></script>
+
+    
+
+    
+    <script type="text/javascript" src="https://web.archive.org/web/20120621012418js_/http://cdn.toontown.disney.go.com/toontown-test/en/report-bug/js/ttrb.min.js"></script>
+    
+
+    
+
+  </head>
+
+  <body><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+</style>
+<div id="wm-ipp-base" lang="en" style="display:none;direction:ltr;">
+<div id="wm-ipp" style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/_static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a id="wm-save-snapshot-open" href="#"
+	     title="Share via My Web Archive" >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share">
+          <a href="/web/20120621012418/http://web.archive.org/screenshot/http://test.toontown.go.com/report-bug"
+             id="wm-screenshot"
+             title="screenshot">
+            <span class="wm-icon-screen-shot"></span>
+          </a>
+	<a id="wm-share-facebook" href="#" data-url="https://web.archive.org/web/20120621012418/http://test.toontown.go.com:80/report-bug" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a id="wm-share-twitter" href="#" data-url="https://web.archive.org/web/20120621012418/http://test.toontown.go.com:80/report-bug" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://test.toontown.go.com/report-bug" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20120621012418" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20120420105915/http://test.toontown.go.com:80/report-bug" title="20 Apr 2012"><strong>Apr</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 01:24:18 Jun 21, 2012">JUN</td>
+		  <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20130703062041/http://test.toontown.go.com:80/report-bug" title="03 Jul 2013"><strong>Jul</strong></a></td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20120618195730/http://test.toontown.go.com/report-bug" title="19:57:30 Jun 18, 2012"><img src="/_static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 01:24:18 Jun 21, 2012">21</td>
+		  <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20130703062041/http://test.toontown.go.com:80/report-bug" title="06:20:41 Jul 03, 2013"><img src="/_static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2011</td>
+		  <td class="c" id="displayYearEl" title="You are here: 01:24:18 Jun 21, 2012">2012</td>
+		  <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20130703062041/http://test.toontown.go.com:80/report-bug" title="03 Jul 2013"><strong>2013</strong></a></td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20120621012418*/http://test.toontown.go.com/report-bug" title="See a list of every capture for this URL">13 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">07 Nov 2011 - 07 Oct 2013</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="625" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+                    <div id="wm-capinfo-collected-by">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/alexacrawls);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/alexacrawls" target="_new"><span class="wm-title">Alexa Crawls</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Starting in 1996, <a href="http://www.alexa.com/">Alexa Internet</a> has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the <a href="http://web.archive.org/">Wayback Machine</a> after an embargo period.
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/alexacrawls)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/alexacrawls" target="_new"><span class="wm-title">Alexa Crawls</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Starting in 1996, <a href="http://www.alexa.com/">Alexa Internet</a> has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the <a href="http://web.archive.org/">Wayback Machine</a> after an embargo period.
+	</div>
+	      </div>
+    </div>
+    </div>
+    <div id="wm-capinfo-timestamps">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/_static/images/loading.gif" alt="loading" /></div>
+    </div>
+    </div>
+  </div></div></div></div><div id="donato" style="position:relative;width:100%;">
+  <div id="donato-base">
+    <iframe id="donato-if" src="https://archive.org/includes/donate.php?as_page=1&amp;transpiled=0&amp;referer=https%3A//web.archive.org/web/20120621012418/http%3A//test.toontown.go.com/report-bug"
+	    scrolling="no" frameborder="0" style="width:100%; height:100%">
+    </iframe>
+  </div>
+</div><script type="text/javascript">
+__wm.bt(625,27,25,2,"web","http://test.toontown.go.com/report-bug","20120621012418",1996,"/_static/",["/_static/css/banner-styles.css?v=HyR5oymJ","/_static/css/iconochive.css?v=qtvMKcIJ"]);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+   <!--[if IE]><div id="IE"><![endif]-->
+   <!--[if IE 8]><div id="IE8"><![endif]-->
+   <!--[if IE 7]><div id="IE7"><![endif]-->
+   <!--[if IE 6]><div id="IE6"><![endif]-->
+
+    <noscript><div class="ttNoScript">JavaScript is Required to Play Toontown Online<br/><br/>From the Tools menu in Internet Explorer, select Internet Options. Click the Security tab, and then select the Internet icon. Click Custom Level and scroll down to Active Scripting. Select Enable under Active Scripting. Click OK, then click Yes, then click OK.<br/><br/>Firefox Users: Click on Tools and then scroll down to select Options. Click the Content tab and check the Enable JavaScript box. Click OK.</div></noscript>
+
+
+
+<div id="ttWelcome">
+	Welcome, Toons! This is the Toontown Test Server. If you are here by mistake, go to <a href="https://web.archive.org/web/20120621012418/http://toontown.go.com/">Toontown.com</a>.
+</div>
+
+
+
+
+<div class="mainContainer help" id="submitBug">
+
+        <div id="header">
+          <a name="&amp;lid=test_logo_toontown_home" href="https://web.archive.org/web/20120621012418/http://test.toontown.go.com/" id="headerLogo">Disney Toontown Online Test Site</a>
+          <ul id="headerLogin">
+          </ul>
+          <div id="headerNav">
+            <a name="&amp;lid=test_request_access" class="navSprt navReqAccess" href="https://web.archive.org/web/20120621012418/https://test.toontown.go.com/request-access">Request Access</a>
+            <a name="&amp;lid=test_report_bug" class="navSprt navRepBug" href="https://web.archive.org/web/20120621012418/http://test.toontown.go.com/report-bug">Report a Bug</a>
+            <a name="&amp;lid=test_release_notes" class="navSprt navRelNotes" href="https://web.archive.org/web/20120621012418/http://test.toontown.go.com/release-notes">Release Notes</a>
+          </div>
+          <a name="&amp;lid=test_play_now" href="https://web.archive.org/web/20120621012418/http://test.toontown.go.com/play" id="headerPlayNow">Play Now</a>
+        </div><!--header-->
+
+	<h1 class="submitBugTitle">Report a Bug</h1>
+
+	<div id="mainContent">
+
+		<div class="boxTop960"></div>
+		<div class="boxMid960">
+
+			<p>Found a bug in Toontown Online? Please describe the behavior you encountered in as much detail as you can and submit it to us using the form below.</p>
+
+			<p><strong>Step 1.</strong> In the description area below, please describe in detail the nature of the problem and the steps needed to reproduce it. Be sure to include your registered email address, and your Account ID.</p>
+
+			<p><strong>Step 2.</strong> Attach all of your latest ToontownOnline_TEST Game Logs with today's date.<br/>
+			&nbsp;&nbsp;&nbsp;&#8226; These logs look like this: toontown-yymmdd_HHMMSS.log<br/>
+			&nbsp;&nbsp;&nbsp;&#8226; If you cannot locate your game logs, please <a href="https://web.archive.org/web/20120621012418/http://toontown.go.com/help/technical/report-bug#answer2" title="Read FAQ">read these instructions</a> while searching in the "ToontownOnline_TEST" folder.<br/>
+			</p>
+
+			<p><strong>Step 3.</strong> Attach all of your latest ToontownOnline_TEST Launcher Logs with today's date.<br/>
+			&nbsp;&nbsp;&nbsp;&#8226; These logs look like this: launcher-yymmdd_HHMMSS.log<br/>
+			&nbsp;&nbsp;&nbsp;&#8226; If you cannot locate your game logs, please <a href="https://web.archive.org/web/20120621012418/http://toontown.go.com/help/technical/report-bug#answer2" title="Read FAQ">read these instructions</a> while searching in the "ToontownOnline_TEST" folder.<br/>
+			</p>
+
+			<p><strong>Step 4.</strong> If the problem is with the graphical display of Toontown, meaning something in the game doesn't look as it should, please send us a screenshot. Press F9 (or Comand+Shift+3 on a Mac) to capture your screenshot and it will be saved as a .jpg file (or .png on a Mac) in the Toontown folder in your Toontown directory (or on your Mac desktop).</p>
+
+			<div id="formMsg" name="formMsg"></div>
+
+			<form class="rb" id="report_form" name="report_form" action="https://web.archive.org/web/20120621012418/http://download.test.toontown.com/logsubmit/post.php" method="post" enctype="multipart/form-data">
+				<input type="hidden" name="cat" value="report"/>
+				<input type="hidden" name="project" value="2"/>
+				<input name="ver" value="1" type="hidden"/>
+				<input type="hidden" name="SUBMIT" value="1"/>
+				<input type="hidden" name="summary" value="Toontown Report A Bug"/>
+				<input type="hidden" name="memberType" value="7"/>
+				<input type="hidden" name="thanksURL" value="http://test.toontown.go.com/report-bug-thanks"/>
+
+				<div id="leftCol">
+					<label for="custom_fields[10]"><span id="emailErr"></span>Email</label>
+					<div class="inputWrapperMed">
+						<input type="text" class="medText" name="custom_fields[10]" id="custom_field_10"/><br/>
+					</div>
+
+					<label for="custom_fields[14]"><span id="acctIDErr"></span>Account ID</label><br/>
+						<div class="inputWrapperMed">
+						<input type="text" class="medText" name="custom_fields[14]" id="custom_field_14" value=""/><br/>
+					</div>
+
+					<label for="description"><span id="descriptionErr"></span>Description</label>
+					<div class="textAreaWrapper">
+						<textarea type="text" class="bigText" name="description" id="description"></textarea>
+					</div>
+				</div>
+
+				<div id="rightCol">
+
+					<div class="inputWrapperSm">
+						<input type="file" id="file_1" class="smText" name="file[]"/>
+					</div>
+
+					<label class="ttLabel1" for="file_1">
+						<span id="gameLogErr"></span>Attach Game Log
+						<div class="note">*attach your latest toontown-yymmdd_HHMMSS.log file</div>
+					</label>
+
+					<div class="inputWrapperSm">
+						<input type="file" id="file_2" class="smText" name="file[]"/>
+					</div>
+					<label class="ttLabel1" for="file_2">
+						<span id="launcherLogErr"></span>Attach Launcher Log
+						<div class="note">*attach your latest launcher-yymmdd_HHMMSS.log file</div>
+					</label>
+
+					<div class="inputWrapperSm">
+						<input type="file" id="file_3" class="smText" name="file[]"/>
+					</div>
+						<label class="ttLabel1" for="file_3">
+						<span id="screenshotErr"></span>Attach Screen Shot (optional)
+					</label>
+
+
+					<a href="javascript:;" id="resetBtn" name="resetBtn">Reset</a>
+					<input id="bugSubmit" name="bugSubmit" type="submit" value="Submit" disabled="disabled" name="&amp;lid=test_report_bug_submit"/>
+
+					<input id="custom_field_15" type="hidden" name="custom_fields[15]" value="US"/>
+					
+					<span id="disclaimer" class="ttClear">By clicking the "Submit" button above, you agree to our <a href="https://web.archive.org/web/20120621012418/http://corporate.disney.go.com/corporate/terms.html" target="_blank">Terms of Use</a>.</span>
+
+				</div>
+			</form>
+
+			<div class="character"></div>
+		</div>
+		<div class="boxBot960"></div>
+
+	</div><!--mainContent-->
+
+	
+        <div id="backTo">
+          <div class="backToSprt backToTop"></div>
+          <div id="backToMid">
+          	Took a wrong turn? Return to the LIVE Toontown Site at <a href="https://web.archive.org/web/20120621012418/http://toontown.go.com/">Toontown.com</a>.          	 
+          </div>
+          <div class="backToSprt backToBot"></div>
+        </div>
+
+</div><!--mainContainer-->
+
+
+    <script type="text/javascript">
+    //<![CDATA[
+
+$(function() {
+	try {
+		var ttbr = new TTRB({
+			pageId: 'reportBug',
+			submit: '#bugSubmit',
+			form: '#report_form',
+			formMsg: '#formMsg',
+			error: 'ttError',
+			email: '#custom_field_10',
+			emailErr: '#emailErr',
+			accountID: '#custom_field_14',
+			accountIDErr: '#acctIDErr',
+			description: '#description',
+			descriptionErr: '#descriptionErr',
+			gameLog: '#file_1',
+			gameLogErr: '#gameLogErr',
+			launcherLog: '#file_2',
+			launcherLogErr: '#launcherLogErr',
+			screenshot: '#file_3',
+			screenshotErr: '#screenshotErr',
+			reset: '#resetBtn'
+		});
+	} catch(err) {
+			tt.log('TTRB err: '+err);
+		}
+});
+
+
+    //]]>
+    </script>
+
+	
+	<div id="footer">
+     
+     <div class="clear">
+        <img src="https://web.archive.org/web/20120621012418im_/http://cdn.toontown.disney.go.com/toontown-test/en/global/img/esrb-awards.png" width="195" height="160" title="" alt="" usemap="#ttFootImg"/>
+        <map name="ttFootImg" id="ttFootImg">
+          <area shape="rect" coords="32,7,164,92" alt="Rated E for Everyone" title="Rated E for Everyone"/>
+          <area shape="rect" coords="0,96,195,160" alt="Awards" title="Awards"/>
+        </map>
+      </div>
+	
+  
+		  <div id="foot"><script type="text/javascript" src="https://web.archive.org/web/20120621012418js_/http://ahome.disney.go.com/globalelements/footer.js?settings=mySettings"></script></div>
+  
+	</div><!--footer-->
+	
+
+
+
+    <!-- BEGIN DOL Web Analytics 1.0 -->
+    <script type="text/javascript" src="https://web.archive.org/web/20120621012418js_/http://aglobal.go.com/stat/dolWebAnalytics.js"></script>
+    <script type="text/javascript">
+      //<![CDATA[
+      cto=new CTO();
+      cto.genre='us';//country
+      cto.account='toontown';
+      cto.category='dgame';
+      cto.site='tnt';
+      cto.siteSection='website:test_website';
+      cto.pageName='test_report_bug';
+      cto.contentType='regular';
+      cto.property='tnt';
+      cto.track();
+      //]]>
+    </script>
+    <!-- END DOL Web Analytics 1.0 -->
+
+
+  <div id="ttLog"></div>
+
+  <!--[if IE 6]></div><![endif]-->
+  <!--[if IE 7]></div><![endif]-->
+  <!--[if IE 8]></div><![endif]-->
+  <!--[if IE]></div><![endif]-->
+
+  </body>
+</html><!--
+     FILE ARCHIVED ON 01:24:18 Jun 21, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:22:23 May 21, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  RedisCDXSource: 161.824
+  captures_list: 388.676
+  exclusion.robots.policy: 0.448
+  LoadShardBlock: 196.544 (3)
+  exclusion.robots: 0.469
+  PetaboxLoader3.datanode: 237.05 (4)
+  CDXLines.iter: 22.86 (3)
+  esindex: 0.155
+  PetaboxLoader3.resolve: 38.35
+  load_resource: 167.925
+-->

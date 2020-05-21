@@ -213,41 +213,41 @@ function popNews(url) {
       <table width="75%" border="0" align="center">
         <tr>
           <td><ul>
-            <li><font face="arial,helvetica" size="2"><font color="0000FF" face="Arial, Helvetica, sans-serif"><a href="faq_toontown_overview.php"><strong><font size="3">Toontown
+            <li><font face="arial,helvetica" size="2"><font color="0000FF" face="Arial, Helvetica, sans-serif"><a href="/faq/overview/faq_toontown_overview.php"><strong><font size="3">Toontown
               Overview</font></strong></a></font></font></li>
-            <li><font face="arial,helvetica" size="2"><strong><font color="0000FF" face="Arial, Helvetica, sans-serif"><a href="faq_getting_started.php"><font size="3">Getting
+            <li><font face="arial,helvetica" size="2"><strong><font color="0000FF" face="Arial, Helvetica, sans-serif"><a href="/faq/getting_started/faq_getting_started.php"><font size="3">Getting
               Started</font></a></font></strong></font></li>
-            <li><font face="arial,helvetica" size="2"><strong><font color="0000FF" face="Arial, Helvetica, sans-serif"><a href="faq_technical.php"><font size="3">PC Technical</font></a></font></strong></font>              </li>
-<li><font face="arial,helvetica" size="2"><strong><font color="0000FF" face="Arial, Helvetica, sans-serif"><a href="faq_mac.php"><font size="3">Mac Technical</font></a></font></strong></font>              </li>
+            <li><font face="arial,helvetica" size="2"><strong><font color="0000FF" face="Arial, Helvetica, sans-serif"><a href="/faq/technical/pc/faq_technical.php"><font size="3">PC Technical</font></a></font></strong></font>              </li>
+<li><font face="arial,helvetica" size="2"><strong><font color="0000FF" face="Arial, Helvetica, sans-serif"><a href="/faq/technical/mac/faq_mac.php"><font size="3">Mac Technical</font></a></font></strong></font>              </li>
             <li><font face="arial,helvetica" size="2"><strong><font color="0000FF" face="Arial, Helvetica, sans-serif"><font size="3">Toons</font></font></strong></font>
               <ul>
-                <li type=disc><font face="arial,helvetica" size="2"><strong><font color="0000FF" face="Arial, Helvetica, sans-serif"><font size="3"><a href="faq_about_my_toons.php">About
+                <li type=disc><font face="arial,helvetica" size="2"><strong><font color="0000FF" face="Arial, Helvetica, sans-serif"><font size="3"><a href="/faq/toons/about/faq_about_my_toons.php">About
                           My Toon</a></font></font></strong></font></li>
               </ul>
             </li>
             <ul>
-                <li type=disc><font face="arial,helvetica" size="2"><strong><font color="0000FF" face="Arial, Helvetica, sans-serif">                    <font face="arial,helvetica" size="2"><strong><a href="faq_toon_communication.php"><font size="3">Toon
+                <li type=disc><font face="arial,helvetica" size="2"><strong><font color="0000FF" face="Arial, Helvetica, sans-serif">                    <font face="arial,helvetica" size="2"><strong><a href="/faq/faq_toon_communication.php"><font size="3">Toon
                 Communication</font></a></strong></font></font></strong></font></li>
-               <li type=disc><font face="arial,helvetica" size="2"><strong><font color="0000FF" face="Arial, Helvetica, sans-serif"><a href="faq_toon_tasks.php"><font size="3">Toon
+               <li type=disc><font face="arial,helvetica" size="2"><strong><font color="0000FF" face="Arial, Helvetica, sans-serif"><a href="/faq/toons/tasks/faq_toon_tasks.php"><font size="3">Toon
                 Tasks</font></a></font></strong></font></li>
-               <li type=disc><font face="arial,helvetica" size="2"><strong><font color="0000FF" face="Arial, Helvetica, sans-serif"><font face="arial,helvetica" size="2"><strong><a href="faq_toon_names.php"><font size="3">Toon
+               <li type=disc><font face="arial,helvetica" size="2"><strong><font color="0000FF" face="Arial, Helvetica, sans-serif"><font face="arial,helvetica" size="2"><strong><a href="/faq/toons/names/faq_toon_names.php"><font size="3">Toon
                 Names</font></a></strong></font></font></strong></font>                </li>
               </ul>
-            <li><font face="arial,helvetica" size="2"><strong><font color="0000FF" face="Arial, Helvetica, sans-serif"><a href="faq_gags_and_cogs.php"><font size="3">Gags
+            <li><font face="arial,helvetica" size="2"><strong><font color="0000FF" face="Arial, Helvetica, sans-serif"><a href="/faq/gags_and_cogs/faq_gags_and_cogs.php"><font size="3">Gags
               and Cogs</font></a></font></strong></font></li>
-            <li><font face="arial,helvetica" size="2"><strong><font color="0000FF" face="Arial, Helvetica, sans-serif"><a href="faq_cog_hq.php"><font size="3">Cog HQ</font></a></font></strong></font></li>
-            <li><font face="arial,helvetica" size="2"><strong><font color="0000FF" face="Arial, Helvetica, sans-serif"><a href="faq_trolley_games.php"><font size="3">Trolley
+            <li><font face="arial,helvetica" size="2"><strong><font color="0000FF" face="Arial, Helvetica, sans-serif"><a href="/faq/cog_hq/faq_cog_hq.php"><font size="3">Cog HQ</font></a></font></strong></font></li>
+            <li><font face="arial,helvetica" size="2"><strong><font color="0000FF" face="Arial, Helvetica, sans-serif"><a href="/faq/trolley_games/faq_trolley_games.php"><font size="3">Trolley
               Games</font></a> </font></strong></font></li>
-			<li><font face="arial,helvetica" size="2"><strong><font color="0000FF" face="Arial, Helvetica, sans-serif"><a href="faq_fishing.php"><font size="3">Fishing</font></a> </font></strong></font></li>
-            <li><a href="faq_cattlelogs.php"><strong><font color="0000FF" size="3" face="Arial, Helvetica, sans-serif">Cattlelogs</font></strong></a></li>
-            <li><font size="3" face="Arial, Helvetica, size"2""><strong><a href="faq_game_cards.php">Toontown Game Cards</a></strong></font></li>
-            <li><a href="faq_tradingcards_mailers.php"><strong><font size="3" face="Arial, Helvetica, size">Trading
+			<li><font face="arial,helvetica" size="2"><strong><font color="0000FF" face="Arial, Helvetica, sans-serif"><a href="/faq/fishing/faq_fishing.php"><font size="3">Fishing</font></a> </font></strong></font></li>
+            <li><a href="/faq/faq_cattlelogs.php"><strong><font color="0000FF" size="3" face="Arial, Helvetica, sans-serif">Cattlelogs</font></strong></a></li>
+            <li><font size="3" face="Arial, Helvetica, size"2""><strong><a href="/faq/game_cards/faq_game_cards.php">Toontown Game Cards</a></strong></font></li>
+            <li><a href="/faq/faq_tradingcards_mailers.php"><strong><font size="3" face="Arial, Helvetica, size">Trading
                   Cards and Mailers</font></strong></a></li>
-		    <li><a href="faq_recruit_a_toon.php"><strong><font size="3" face="Arial, Helvetica, size">Recruit-a-Toon</font></strong></a></li>
-		    <li><a href="faq_cog_bucks.php"><strong><font size="3" face="Arial, Helvetica, size">Cog Bucks</font></strong></a></li>
-		    <li><a href="faq_guest_pass.php"><strong><font size="3" face="Arial, Helvetica, size">Guest Pass</font></strong></a></li>
-		    <li><a href="faq_account_key.php"><strong><font size="3" face="Arial, Helvetica, size">Toontown CD-ROM</font></strong></a></li>
-            <li><font face="arial,helvetica" size="2"><strong><font color="0000FF" face="Arial, Helvetica, sans-serif"><a href="faq_member_services.php"><font size="3">Member
+		    <li><a href="/faq/recruit_a_toon/faq_recruit_a_toon.php"><strong><font size="3" face="Arial, Helvetica, size">Recruit-a-Toon</font></strong></a></li>
+		    <li><a href="/faq/cog_bucks/faq_cog_bucks.php"><strong><font size="3" face="Arial, Helvetica, size">Cog Bucks</font></strong></a></li>
+		    <li><a href="/faq/guest_pass/faq_guest_pass.php"><strong><font size="3" face="Arial, Helvetica, size">Guest Pass</font></strong></a></li>
+		    <li><a href="/faq/faq_account_key.php"><strong><font size="3" face="Arial, Helvetica, size">Toontown CD-ROM</font></strong></a></li>
+            <li><font face="arial,helvetica" size="2"><strong><font color="0000FF" face="Arial, Helvetica, sans-serif"><a href="/faq/faq_member_services.php"><font size="3">Member
               Services</font></a></font></strong></font></li>
 			<li><font face="arial,helvetica" size="2"><strong><font face="arial,helvetica" size="2"><strong><font color="0000FF" size="3" face="Arial, Helvetica, sans-serif"><a href="../problem.php">Contact
                                               Us</a></font><font color="0000FF" face="Arial, Helvetica, sans-serif"><br>
